@@ -1,4 +1,4 @@
-# pGlyco2 beta2
+# pGlyco2 beta2 (version 2.1.171225)
 
 ![pGlyco2 workflow](https://github.com/pFindStudio/pGlyco2/image/pGlyco2Flow.jpg)
 
