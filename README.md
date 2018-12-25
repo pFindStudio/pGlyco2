@@ -9,6 +9,13 @@
 If you have any question, please contact pglyco[at]ict.ac.cn, or you can post [issues](https://github.com/pFindStudio/pGlyco2/issues) at Github. To post github [issues](https://github.com/pFindStudio/pGlyco2/issues), see [github.pdf](http://pfind.ict.ac.cn/file/github.pdf) for details.
 
 ### Release Notes ###
+
+#### pGlyco2.2.0: [User Guide](http://pfind.ict.ac.cn/software/pGlyco/pGlyco2%20User%20Guide.pdf) and [Download](http://pfind.ict.ac.cn/download/pGlyco/pGlycoSetup.exe) ####
+* Fixed potential divide-zero bugs in pGlycoFDR.exe.
+* Some improvements in gLabel.
+* Since Thermo has developed new raw APIs (RawFileReader.dll), xtract_raw and pParse were re-developed by using these new APIs, and it may introduce some differences compared with the old APIs.
+* Supported mzML.
+
 #### pGlyco2.1.2: [User Guide](http://pfind.ict.ac.cn/software/pGlyco/pGlyco2.1.2%20User%20Guide.pdf) and [Download](http://pfind.ict.ac.cn/download/pGlyco/pGlyco2.1.2.exe) ####
 * Fixed divide-zero bugs in pGlycoFDR.exe.
 * gLabel supports batch plot and user-defined glycopeptides.
