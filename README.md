@@ -1,4 +1,4 @@
-# pGlyco2 beta2 (version 2.1.2, release date: 20180201)
+# pGlyco2 beta2 (version 2.2.0, release date: 20190101)
 
 ![pGlyco2 workflow](https://github.com/pFindStudio/pGlyco2/blob/master/image/pGlyco2Flow.jpg)
 
