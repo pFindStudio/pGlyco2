@@ -10,11 +10,11 @@ If you have any question, please contact pglyco[at]ict.ac.cn, or you can post [i
 
 ### Release Notes ###
 
-#### pGlyco2.2.0: [User Guide](http://pfind.ict.ac.cn/software/pGlyco/pGlyco2%20User%20Guide.pdf) and [Download](http://pfind.ict.ac.cn/download/pGlyco/pGlycoSetup.exe) ####
+#### pGlyco2.2.0 (2019.01.01): [User Guide](http://pfind.ict.ac.cn/software/pGlyco/pGlyco2%20User%20Guide.pdf) and [Download](http://pfind.ict.ac.cn/download/pGlyco/pGlycoSetup.exe) ####
 * Fixed potential divide-zero bugs in pGlycoFDR.exe.
 * Some improvements in gLabel.
 * Supported mzML.
-* Since Thermo has developed new raw APIs (RawFileReader.dll, same as Proteome Discoverer), xtract_raw and pParse were re-developed by using these new APIs, and it may introduce some differences compared with the old APIs. If you need to change back to the MSFileReader-based APIs, please rename the xtract_raw_with_msfilereader.exe in the installation folder as xtract_raw.exe, and of course you need to install MSFileReader.
+* Since Thermo has developed new raw APIs (RawFileReader.dll, same as Proteome Discoverer), xtract_raw and pParse were re-developed by using these new APIs, and it may introduce some differences compared with the old APIs. **If you need to change back to the MSFileReader-based APIs, please rename the xtract_raw_with_msfilereader.exe in the installation folder as xtract_raw.exe, and of course you need to install MSFileReader.**
 
 #### pGlyco2.1.2: [User Guide](http://pfind.ict.ac.cn/software/pGlyco/pGlyco2.1.2%20User%20Guide.pdf) and [Download](http://pfind.ict.ac.cn/download/pGlyco/pGlyco2.1.2.exe) ####
 * Fixed divide-zero bugs in pGlycoFDR.exe.
