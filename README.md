@@ -2,7 +2,7 @@
 
 ![pGlyco2 workflow](https://github.com/pFindStudio/pGlyco2/blob/master/image/pGlyco2Flow.jpg)
 
-Download it [here](https://github.com/pFindStudio/pGlyco2/releases/download/pGlyco2/pGlycoSetup.exe) or at pFind [website](http://pfind.ict.ac.cn/download/pGlyco/pGlycoSetup.exe).
+Download it [here](https://bitbucket.org/jalew188/pglyco2/downloads/pGlycoSetup.exe) or at pFind [website](http://pfind.ict.ac.cn/download/pGlyco/pGlycoSetup.exe).
 
 [pFind Studio](http://pfind.ict.ac.cn) is computational solution for mass spectrometry-based proteomics, the newest version of pFind Studio includes pFind3 for proteomics, pLink2 for cross-linking proteomics, pNovo for de novo sequencing, pTop for intact protein analysis and pGlyco2 for intact glycopeptide analysis. 
 
